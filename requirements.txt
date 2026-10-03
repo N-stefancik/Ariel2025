@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+astropy
+./data/pqdm-0.2.0-py2.py3-none-any.whl
+./data/bounded_pool_executor-0.0.3-py3-none-any.whl
+./data/typing_extensions-4.12.2-py3-none-any.whl
+./data/tqdm-4.66.5-py3-none-any.whl
+pyarrow
+matplotlib
+plotly
+jupyterlab
+ipykernel
